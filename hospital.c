@@ -36,10 +36,6 @@ int main(void)
 {
     while (1)
     {
-        int *incluir;
-        incluir = malloc(100(int));
-
-        free Incluir;
     }
     return 0;
 }
