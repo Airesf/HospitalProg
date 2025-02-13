@@ -36,6 +36,8 @@ int main(void)
 {
     while (1)
     {
+    int = 1;
+    printf("1 - Cadastrar médico\n");
     }
     return 0;
 }
